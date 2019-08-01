@@ -1,2 +1,2 @@
 # jp.tiar.app
-jp.tiar.app
+https://jp.tiar.app
