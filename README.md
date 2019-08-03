@@ -7,6 +7,14 @@
 * DNSSEC Validation
 * Free
 
+## Table of Contents
+
+* [Features](#features)
+* [DNS](#features)
+* [DNSCrypt](#dnscrypt)
+* [DoH (DNS-over-HTTPS)](#doh-dns-over-https)
+* [DoT (DNS-over-TLS)](#dot-dns-over-tls)
+
 ## DNS
 
 ### IPv4
