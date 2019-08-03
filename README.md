@@ -27,7 +27,7 @@
 
 `sdns://AQcAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdOjE0NDMgMrh2PvG_ZTah3moTwM1vSKF544i2maU3jW1bPEzfVFMbMi5kbnNjcnlwdC1jZXJ0LmpwLnRpYXIuYXBw`
 
-## DoH (DNS-over-HTPPS)
+## DoH (DNS-over-HTTPS)
 `https://doh.tiar.app/dns-query`
 
 ### IPv4
@@ -38,7 +38,7 @@
 
 `sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4C2pwLnRpYXIuYXBwCi9kbnMtcXVlcnk`
 
-## DoT(DNS-over-TLS)
+## DoT (DNS-over-TLS)
 `jp.tiar.app port 853`
 
 ### IPv4
