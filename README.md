@@ -57,4 +57,4 @@ Public DNS Server in Japan.
 
 ### IPv6
 
-`2400:8902::f03c:91ff:feda:c514 port 853`
+`[2400:8902::f03c:91ff:feda:c514] port 853`
