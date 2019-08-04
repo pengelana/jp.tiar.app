@@ -36,7 +36,7 @@
 `sdns://AQcAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdOjE0NDMgMrh2PvG_ZTah3moTwM1vSKF544i2maU3jW1bPEzfVFMbMi5kbnNjcnlwdC1jZXJ0LmpwLnRpYXIuYXBw`
 
 ## DoH (DNS-over-HTTPS)
-`https://doh.tiar.app/dns-query`
+`https://jp.tiar.app/dns-query`
 
 ### IPv4
 
