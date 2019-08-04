@@ -1,5 +1,7 @@
 # jp.tiar.app
 
+Public DNS Server in Japan.
+
 ## Features
 * No Censorship
 * No logs
