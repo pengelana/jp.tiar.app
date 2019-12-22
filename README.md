@@ -43,19 +43,19 @@ Public DNS Server in Japan.
 
 `https://jp.tiar.app/dns-query`
 
-### IPv4 (doh.tiarap.org)
+### IPv4 (jp.tiarap.org)
 
 `sdns://AgcAAAAAAAAADDEwNC4yOC4yOC4zNCBPtWwTIp4-T40ZbjCdyCfeStS1-WkKW8w_WWEQubJpyQ1qcC50aWFyYXAub3JnCi9kbnMtcXVlcnk`
 
-### IPv4 (doh.tiar.app)
+### IPv4 (jp.tiar.app)
 
 `sdns://AgcAAAAAAAAADTE3Mi4xMDQuOTMuODAgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgLanAudGlhci5hcHAKL2Rucy1xdWVyeQ`
 
-### IPv6 (doh.tiarap.org)
+### IPv6 (jp.tiarap.org)
 
 `sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0gT7VsEyKePk-NGW4wncgn3krUtflpClvMP1lhELmyackNanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5`
 
-### IPv6 (doh.tiar.app)
+### IPv6 (jp.tiar.app)
 
 `sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4C2pwLnRpYXIuYXBwCi9kbnMtcXVlcnk`
 
