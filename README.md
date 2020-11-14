@@ -5,11 +5,12 @@ Public DNS Server in Japan.
 <a href="https://www.buymeacoffee.com/tiarap" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## Features
-* No Censorship
-* No logs
-* No ECS
-* DNSSEC Validation
-* Free
+- [x] No Censorship
+- [x] DNS 0x20
+- [x] DNSSEC Validation
+- [x] No EDNS Client Subnet (ECS)
+- [x] No logs
+- [x] Free
 
 ## Table of Contents
 
