@@ -46,7 +46,7 @@ Public DNS Server in Japan.
 
 ### IPv4 (jp.tiarap.org)
 
-`sdns://AgcAAAAAAAAADDEwNC4yOC4yOC4zNCBPtWwTIp4-T40ZbjCdyCfeStS1-WkKW8w_WWEQubJpyQ1qcC50aWFyYXAub3JnCi9kbnMtcXVlcnk`
+`sdns://AgcAAAAAAAAAACDlfOUtFRBtpOz9nhH9pf0dHgpr4BIkGITTYuodSvRk9w1qcC50aWFyYXAub3JnCi9kbnMtcXVlcnk`
 
 ### IPv4 (jp.tiar.app)
 
